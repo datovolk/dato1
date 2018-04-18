@@ -4,7 +4,7 @@
 </head> 
 <style>
    body {
-    background: url(fon_32.jpg) no-repeat;
+    background: url(https://goo.gl/images/4xmLcn.jpg) no-repeat;
     -moz-background-size: 100%; 
     -webkit-background-size: 100%; 
     -o-background-size: 100%; 
